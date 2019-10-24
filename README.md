@@ -32,6 +32,10 @@ IndicadorRuptura = IF([ruptura]<=0,1,0)
 
 e pronto hora de ir para história.
 
+Na história alem de filtros precisei criar quatro dimensões calculadas para identificar as rupturas e facilitar a criação de filtros.
+
+Segue exemplo de uma dimensão calculada.
+
 
 
 Visualização das informaçes de ruptura.
