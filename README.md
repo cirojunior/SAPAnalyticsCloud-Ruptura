@@ -7,6 +7,9 @@ Na aba estoque aparece as quantidade de materiais disponíveis por local de esto
 
 A primeira etapa foi criar o CUBO para buscar as informações no banco hana, criamos um cubo para carteira e outro para estoque conforme código.
 
+https://github.com/cirojunior/SAPAnalyticsCloud-Ruptura/blob/master/carteiraCUBO
+
+https://github.com/cirojunior/SAPAnalyticsCloud-Ruptura/blob/master/estoqueCUBO
 
 
 
