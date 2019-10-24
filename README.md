@@ -5,11 +5,23 @@ O objetivo desse relatório é mostrar a ruptura da produção dos materiais, on
 Na aba de indisponibilidade é avaliado os materiais que estão no local de estoque disponível para venda "possível gerar remessa", então comparamos o estoque visível pelo comercial x ordem de venda "Pedidos".
 Na aba estoque aparece as quantidade de materiais disponíveis por local de estoque, filtrando somente os itens com indisponibilidade, assim facilitando a análise de onde buscar o material que está faltando.
 
-A primeira etapa foi criar o CUBO para buscar as informações no banco hana, criamos um cubo para carteira e outro para estoque conforme código.
+A primeira etapa foi criar o CUBO para buscar as informações no banco hana, criei um cubo para carteira e outro para estoque conforme código.
 
 https://github.com/cirojunior/SAPAnalyticsCloud-Ruptura/blob/master/carteiraCUBO
 
 https://github.com/cirojunior/SAPAnalyticsCloud-Ruptura/blob/master/estoqueCUBO
+
+Depois dos dados coletados do banco hana, criei as consultas "query'.
+
+https://github.com/cirojunior/SAPAnalyticsCloud-Ruptura/blob/master/carteiraQUERY
+
+https://github.com/cirojunior/SAPAnalyticsCloud-Ruptura/blob/master/estoqueQUERY
+
+agora de posse de todos os dados necessários para o desenvolvimento da análise.
+
+IMPORTANTE: Dados homologados com o relatório "Administrar cobertura material" relatório de MRP.
+
+Indo para o SAP Analytics Cloud chegou a hora de criar o modelo.
 
 
 
