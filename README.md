@@ -34,9 +34,11 @@ e pronto hora de ir para história.
 
 Na história alem de filtros precisei criar quatro dimensões calculadas para identificar as rupturas e facilitar a criação de filtros.
 
-Segue exemplo de uma dimensão calculada.
+Segue exemplo de uma das dimensão calculada.
 
+![dimensaocalculada](https://user-images.githubusercontent.com/2106357/67517545-34dec080-f679-11e9-8a82-3b9983a8cdbb.png)
 
+Segue abaixo a visualização dos relatórios.
 
 Visualização das informaçes de ruptura.
 
