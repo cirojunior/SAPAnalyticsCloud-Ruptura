@@ -5,6 +5,8 @@ O objetivo desse relatório é mostrar a ruptura da produção dos materiais, on
 Na aba de indisponibilidade é avaliado os materiais que estão no local de estoque disponível para venda "possível gerar remessa", então comparamos o estoque visível pelo comercial x ordem de venda "Pedidos".
 Na aba estoque aparece as quantidade de materiais disponíveis por local de estoque, filtrando somente os itens com indisponibilidade, assim facilitando a análise de onde buscar o material que está faltando.
 
+A primeira etapa foi criar o CUBO para buscar as informações no banco hana, criamos um cubo para carteira e outro para estoque conforme código.
+
 
 
 
