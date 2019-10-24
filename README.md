@@ -1,6 +1,9 @@
 # SAPAnalyticsCloud-Ruptura
-Relatório de ruptura com S4/hana e SAP Analytics Cloud
+Relatório de ruptura, indisponibilidade e estoque com S4/hana e SAP Analytics Cloud
 
+O objetivo desse relatório é mostrar a ruptura da produção dos materiais, onde é analisado a quantidade que tem em estoque e comparado com o que tem de ordem de venda "Pedidos" e assim identificar materiais que estão com status de urgência de produção.
+Na aba de indisponibilidade é avaliado os materiais que estão no local de estoque disponível para venda "possível gerar remessa", então comparamos o estoque visível pelo comercial x ordem de venda "Pedidos".
+Na aba estoque aparece as quantidade de materiais disponíveis por local de estoque, filtrando somente os itens com indisponibilidade, assim facilitando a análise de onde buscar o material que está faltando.
 
 
 
