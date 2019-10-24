@@ -23,6 +23,15 @@ IMPORTANTE: Dados homologados com o relatório "Administrar cobertura material" 
 
 Indo para o SAP Analytics Cloud chegou a hora de criar o modelo.
 
+Basicamente ajustei alguns campos que precisavam de algum tipo de tratamento e duas medidas para calcular a ruptura.
+
+ruptura = [Qtde_Estoque]-[Qtde_Venda]
+IndicadorRuptura = IF([ruptura]<=0,1,0)
+
+![modelo](https://user-images.githubusercontent.com/2106357/67517063-2348e900-f678-11e9-8ff5-e619d1e6400d.png)
+
+e pronto hora de ir para história.
+
 
 
 Visualização das informaçes de ruptura.
